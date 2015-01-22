@@ -1,7 +1,7 @@
 <?php
 
-print "Hola mundo OW";
-print "sera que funciona?";
+print "Hola mundo OW <br>";
+print "Funciona!!!";
 
 ?>
 
